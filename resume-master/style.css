@@ -1,0 +1,85 @@
+.column-layout{display:flex;
+    flex-direction: row;
+       }
+
+.sidebar{width: 20pt;
+    background-color:;
+    flex-direction: row;
+    flex:2
+    }
+
+.main-column{width: 200pt;
+    padding-right: 20pt;
+    padding-left: 20pt;
+    text-align: right;
+    font-weight: 400;
+    color: white;
+    background-color: #FFA100;
+    flex: 1}
+
+h3{font-family: 'Work Sans', sans-serif;
+    color: #FFA100;
+    text-align: left;
+    padding-left: 20pt;
+    padding-top:5pt;
+    padding-bottom: 5pt
+ 
+}
+h2{font-family: 'Work Sans', sans-serif;
+    font-size: 15pt;
+    text-align: right;
+    color: black;
+   
+}
+h1{font-family: 'Work Sans', sans-serif;
+    font-size: 50pt;
+    text-align: right;
+    
+    
+    
+}
+.regtext{color:black;
+    font-family: 'Work Sans', sans-serif;
+        font-size: 10pt;
+        font-weight: 200;
+        padding-left: 2pt;
+    text-align: right;
+    position: relative;
+    top:-50px}
+
+.job{color: black;
+    position: relative;
+    top:-40pt
+    }
+
+.info{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 10pt;
+    padding-left: 20pt }
+
+.date{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 10pt;
+    position: relative;;
+    top:-30;
+    left:300pt}
+
+.right{text-align:right;
+    position: relative;
+    top:-30px;
+    color: white;
+    font-weight: 400}
+.table{color: black;
+    text-align: right;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 10pt;
+    padding-left: 55pt;
+    padding-right: ;
+    position: relative;
+    top:-50px;
+
+    
+
+}
+td{padding-left:;
+padding-right: pt}
