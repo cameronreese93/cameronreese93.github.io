@@ -1,0 +1,4 @@
+# cameronreese93.github.io
+
+Welcome to my completed portfolio site. I am pleased to share my first complete site with you. I used a parallax style for the whole page. The background images act as an important part of the design of the webpage. I wanted the images and text to act as one. I used separate css files to create the paralax and style the whole page. The Javascript that I used animates the words at teh top of the page that first grabs your attention. I also used javaScript in the gallery section to make the images black and white on hover. By clicking the items in the nav bar it should navigate you to the point of the page that you were looking for. When you click the links in the gallery section it brings you to a slideshow of each of my projects.
+I linked my resume that I created at another time in the contact section.
